@@ -1,0 +1,43 @@
+.admin-dashboard {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.create-label {
+  margin-bottom: 20px;
+}
+
+.create-label input {
+  width: 200px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.create-label button {
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.labels ul {
+  list-style-type: none;
+  padding: 0;
+}
+.labels ul {
+  list-style-type: disc;
+  margin-left: 20px; /* Add desired margin to the left */
+}
+
+.labels ul li {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
